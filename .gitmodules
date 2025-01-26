@@ -1,15 +1,15 @@
 [submodule "3rd-party/pybind11"]
 	path = 3rd-party/pybind11
-	url = git@github.com:pybind/pybind11.git
+	url = https://github.com/pybind/pybind11.git
 [submodule "3rd-party/nlohmann_json_cmake_fetchcontent"]
 	path = 3rd-party/nlohmann_json_cmake_fetchcontent
-	url = git@github.com:ArthurSonzogni/nlohmann_json_cmake_fetchcontent.git
+	url = https://github.com/ArthurSonzogni/nlohmann_json_cmake_fetchcontent.git
 [submodule "3rd-party/googletest"]
 	path = 3rd-party/googletest
-	url = git@github.com:google/googletest.git
+	url = https://github.com/google/googletest.git
 [submodule "3rd-party/backward-cpp"]
 	path = 3rd-party/backward-cpp
-	url = git@github.com:bombela/backward-cpp.git
+	url = https://github.com/bombela/backward-cpp.git
 [submodule "examples/distributed/onnxsim_large_model"]
 	path = examples/distributed/onnxsim_large_model
-	url = git@github.com:luchangli03/onnxsim_large_model.git
+	url = https://github.com/luchangli03/onnxsim_large_model.git
